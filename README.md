@@ -1,4 +1,4 @@
-# Amfoss-tasks
+# ACM-Recruitment
 ## INTRODUCTION
 Myself, Rohan S, I am first-year BTech Computer Science and Engineering(Artificial Intelligence) 
 student at Amrita Vishwa Vidyapeetham, Amritapuri campus. I have some basic knowledge of python 
