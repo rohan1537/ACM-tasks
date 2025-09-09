@@ -1,5 +1,6 @@
 # ACM-Recruitment
 ## INTRODUCTION
 Myself, Rohan S, I am first-year BTech Computer Science and Engineering(Artificial Intelligence) 
-student at Amrita Vishwa Vidyapeetham, Amritapuri campus. I have some basic knowledge of python 
-programming based on my 12th grade. My hobbies are solving sudoku, watching movies and pencil drawing. 
+student at Amrita Vishwa Vidyapeetham, Amritapuri campus. And I am from Pathanamthitta,Kerala. I 
+have some basic knowledge of python programming based on my 12th grade. My hobbies are solving
+sudoku, watching movies and pencil drawing. 
