@@ -1,1 +1,27 @@
+Rules:
+
+- Boat can carry only the farmer + one item.
+- Wolf eats goat if left alone together.
+- Goat eats cabbage if left alone together.
+
+ Safe Crossing Steps:
+
+1 Farmer takes Goat across the river
+  → Now: Wolf and Cabbage on the left side
+  → Goat on the right side
+2 Farmer goes back alone
+3 Farmer takes Wolf across the river
+4 Farmer brings Goat back
+  → This keeps the Goat safe from the Wolf
+5 Farmer takes Cabbage across the river
+  → Goat stays on the left side
+6 Farmer goes back alone
+7 Farmer takes Goat across the river one last time
+
+
+Result:
+
+All three (Wolf, Goat, Cabbage) are now safely on the other side of the river.
+
+
 
