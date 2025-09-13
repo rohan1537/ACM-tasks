@@ -1,1 +1,16 @@
+Step by Step pattern explanation:
+
+• 6 − 2 = 4
+• 12 − 6 = 6
+• 20 − 12 = 8
+So the differences are increasing by 2:
++4, +6, +8, ...
+
+Following this pattern:
+
+• Next difference = +10 → 20 + 10 = 30
+• Next difference = +12 → 30 + 12 = 4
+
+Next two terms:
+30, 42
 
